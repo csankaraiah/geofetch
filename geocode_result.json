@@ -1,0 +1,94 @@
+{
+  "geometry": {
+    "location": {
+      "lat": 44.906532,
+      "lng": -93.25972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 44.9078809802915,
+        "lng": -93.25837101970849
+      },
+      "southwest": {
+        "lat": 44.9051830197085,
+        "lng": -93.26106898029151
+      }
+    },
+    "location_type": "ROOFTOP"
+  },
+  "address_components": [
+    {
+      "long_name": "5315",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5315"
+    },
+    {
+      "long_name": "10th Avenue South",
+      "types": [
+        "route"
+      ],
+      "short_name": "10th Ave S"
+    },
+    {
+      "long_name": "Hale",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Hale"
+    },
+    {
+      "long_name": "Minneapolis",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Minneapolis"
+    },
+    {
+      "long_name": "Hennepin County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hennepin County"
+    },
+    {
+      "long_name": "Minnesota",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "MN"
+    },
+    {
+      "long_name": "United States",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "US"
+    },
+    {
+      "long_name": "55417",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "55417"
+    },
+    {
+      "long_name": "1703",
+      "types": [
+        "postal_code_suffix"
+      ],
+      "short_name": "1703"
+    }
+  ],
+  "place_id": "ChIJz9em3Scm9ocRDZs6RJp-toM",
+  "formatted_address": "5315 10th Ave S, Minneapolis, MN 55417, USA",
+  "types": [
+    "street_address"
+  ]
+}
