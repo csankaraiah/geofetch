@@ -2,7 +2,7 @@ import googlemaps
 import json
 import csv
 
-gmaps = googlemaps.Client(key='AIzaSyDednPA5ssSnBus0hJOvySyzehMUtLCM0A')
+gmaps = googlemaps.Client(key='XXXXXXXXX')
 
 try:
     def get_zipcode(addr):
